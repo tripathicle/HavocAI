@@ -153,22 +153,20 @@ Terraform remote backend with state locking
 
 ---
  ### Contributing
- How to Contribute
-  1. Fork the repo
-  2. Create a branch:
-```
-git checkout -b feature/awesome-feature
-```
-  3. Make changes and commit:
-```
-git commit -am "feat: add awesome feature"
+ We welcome contributions! If you have suggestions, bug fixes, or improvements for the pipeline, feel free to create an issue or submit a pull request.
+How to Contribute
 
-```
-  4.Push and open a Pull Request
-  
-Ensure all pipeline checks pass before requesting review.
-  
+1.Fork the repository.
 
+2.Create a new branch (```git checkout -b feature-branch```).
+
+3.Make your changes.
+
+4.Commit your changes (```git commit -am 'Add new feature'```).
+
+5.Push to the branch (```git push origin feature-branch```).
+
+6.Open a pull request.
 
 
 
