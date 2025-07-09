@@ -170,9 +170,5 @@ Ensure all pipeline checks pass before requesting review.
   
 
 
-  C --> D{Tests Passed?}
-  D -- Yes --> E[Terraform Plan & Apply]
-  E --> F[Deploy App to Dev/Staging/Prod]
-  D -- No --> G[Fail Pipeline & Notify]
-  F --> H[Monitoring & Alerting]
+
 
